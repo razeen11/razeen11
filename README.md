@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razeen11&label=Profile%20views&color=0e75b6&style=flat" alt="razeen11" /> </p>
 
-- 🔭 I’m currently working on **Human Activity Recognition and Prediction using Graph Neural Networks**
+- 🔭 I’m currently working on: **Human Activity Recognition and Prediction using Graph Neural Networks**
 
-- 🌱 I’m currently concentrating in **Machine learning Algorithms and Azure Cloud Computing**
+- 🌱 I’m currently concentrating in: **Machine learning Algorithms and Azure Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [rzsworld.netlify.app](rzsworld.netlify.app)
+- 👨‍💻 All of my projects are available at: [portfolio](rzsworld.netlify.app)
 
-- 💬 Ask me about **C, Java and Python Programming languages**
+- 💬 Ask me about: **C, Java and Python Programming languages**
 
-- 📫 Contact me at **razeeniqbal11@gmail.com**
+- 📫 Contact me at: **razeeniqbal11@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SF4ZfxxuwyLnuz-16H9MBwrjPJu3hJW9/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1SF4ZfxxuwyLnuz-16H9MBwrjPJu3hJW9/view?usp=sharing)
 
-- ⚡ Facts about me **I am always keen in learning something new and keep myself updated**
+- ⚡ Facts about me: **I am always keen in learning something new and keep myself updated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
