@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/razeeni11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="razeeni11" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/razeen-i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="razeen i" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15539963/razeen-i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="razeen i" height="30" width="40" /></a>
 <a href="https://fb.com/razeen.iqbal.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="razeen.iqbal.5" height="30" width="40" /></a>
 <a href="https://instagram.com/razeen.i11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="razeen.i11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/razeeniqbal11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="razeeniqbal11" height="30" width="40" /></a>
