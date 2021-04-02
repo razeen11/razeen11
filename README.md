@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **C, Java and Python Programming languages**
 
-- 📫 How to reach me **razeeniqbal11@gmail.com**
+- 📫 Contact me at **razeeniqbal11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SF4ZfxxuwyLnuz-16H9MBwrjPJu3hJW9/view?usp=sharing](https://drive.google.com/file/d/1SF4ZfxxuwyLnuz-16H9MBwrjPJu3hJW9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SF4ZfxxuwyLnuz-16H9MBwrjPJu3hJW9/view?usp=sharing)
 
 - ⚡ Facts about me **I am always keen in learning something new and keep myself updated**
 
