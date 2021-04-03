@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently concentrating in: **Machine learning Algorithms and Azure Cloud Computing**
 
-- 👨‍💻 All of my projects are available at: [portfolio](razeen11.github.io/portfolio)
+- 👨‍💻 All of my projects are available at: [portfolio](https://razeen11.github.io/portfolio)
 
 - 💬 Ask me about: **C, Java and Python Programming languages**
 
