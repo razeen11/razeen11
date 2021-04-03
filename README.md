@@ -1,7 +1,7 @@
-<h1 align="center">Hello there! 👋, I am Razeen</h1>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I am Razeen</h1>
 <h3 align="center">an aspiring IT professional from Kanyakumari, India.</h3>
 
-<p><img align="center" src="https://miro.medium.com/max/3840/1*sUI4nkPfH0wevBQMb29cnQ.jpeg" alt="motto" width="400" height="200"/></p>
+<p align="center"><img src="https://miro.medium.com/max/3840/1*sUI4nkPfH0wevBQMb29cnQ.jpeg" alt="motto" width="400" height="200"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razeen11&label=Profile%20views&color=0e75b6&style=flat" alt="razeen11" /> </p>
 
 - 🔭 I’m currently working on: **Human Activity Recognition and Prediction using Graph Neural Networks**
@@ -15,8 +15,6 @@
 - 📫 Contact me at: **razeeniqbal11@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1SF4ZfxxuwyLnuz-16H9MBwrjPJu3hJW9/view?usp=sharing)
-
-- ⚡ Facts about me: **I am always keen in learning something new and keep myself updated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
