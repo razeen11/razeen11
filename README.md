@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Razeen</h1>
+<h1 align="center">Hello there! 👋, I am Razeen</h1>
 <h3 align="center">an aspiring IT professional from Kanyakumari, India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razeen11&label=Profile%20views&color=0e75b6&style=flat" alt="razeen11" /> </p>
+<p><img align="center" src="https://miro.medium.com/max/3840/1*sUI4nkPfH0wevBQMb29cnQ.jpeg" alt="motto" width="400" height="200"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=razeen11&label=Profile%20views&color=0e75b6&style=flat" alt="razeen11" /> </p>
 
 - 🔭 I’m currently working on: **Human Activity Recognition and Prediction using Graph Neural Networks**
 
 - 🌱 I’m currently concentrating in: **Machine learning Algorithms and Azure Cloud Computing**
 
-- 👨‍💻 All of my projects are available at: [portfolio](rzsworld.netlify.app)
+- 👨‍💻 All of my projects are available at: [portfolio](razeen11.github.io/portfolio)
 
 - 💬 Ask me about: **C, Java and Python Programming languages**
 
